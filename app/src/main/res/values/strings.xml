@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicList</string>
+    <string name="lista_de_musicas">Lista de Musicas</string>
+    <string name="inserindo_nova_musica">Inserindo nova Musica</string>
+    <string name="inserindo_musica">Inserindo Musica</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="editar_musica">Editar Musica</string>
+</resources>
